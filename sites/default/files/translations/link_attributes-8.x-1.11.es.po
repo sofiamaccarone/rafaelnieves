@@ -1,0 +1,26 @@
+# Spanish translation of Link Attributes widget (8.x-1.11)
+# Copyright (c) 2020 by the Spanish translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Link Attributes widget (8.x-1.11)\n"
+"POT-Creation-Date: 2020-08-25 07:19+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Enabled"
+msgstr "Activado"
+msgid "Attributes"
+msgstr "Atributos"
+msgid "About"
+msgstr "Acerca de"
+msgid "Link attributes"
+msgstr "Atributos del enlace"
+msgid "Placeholder for URL"
+msgstr "Marcador de posición para URL"
+msgid "Placeholder for link text"
+msgstr "Marcador de posición para texto de enlace"
